@@ -7,7 +7,7 @@ while True:
 
         print(f"The enemy is a {enemyType}")
         print(f"The enemy health is {enemyHealth}")
-
+        time.sleep(5)
     else:
 
-        pass
+        break
